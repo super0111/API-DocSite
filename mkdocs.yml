@@ -1,0 +1,11 @@
+site_name: UvUew Api Doc
+nav:
+
+    - Account: './Account/index.md'
+    - Create-Content : './Create-Content/index.md'
+    - Explore : './Explore/index.md'
+    - Feed : './Feed/index.md'
+    - Settings : './Settings/index.md'
+    
+theme: readthedocs
+use_directory_urls: false
